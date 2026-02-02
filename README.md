@@ -1,5 +1,22 @@
-### Hi there 👋
+## 👋 Hi, I’m Morteza Bayat
 
+I’m an Android & Linux Developer with expertise in C, C++, Java, Kotlin, and Multiplatform development (KMP/CMP). I build efficient, performance-oriented software across mobile and system-level platforms.
+
+🚀 On GitHub I work on native Android components, audio/video tools, platform integrations, and C/C++ projects, focusing on clean, reusable code and real-world engineering solutions.
+
+**🔧 Technical strengths:**
+
+	•	Android Development (Java, Kotlin)
+	•	Linux & cross-platform systems
+	•	C/C++ and native libraries
+	•	Kotlin Multiplatform (KMP)
+	•	Low-level audio/video integration
+
+**🔗 Connect with me:**
+
+  - Email: morteza61dr@gmail.com
+  -	Twitter: @mbayat6
+  -	[LinkedIn](https://www.linkedin.com/in/morteza-bayat-60180967/)  ￼
 <!--
 **mortezabayat/mortezabayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
