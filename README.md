@@ -2,17 +2,17 @@
 
 **Android & Linux Developer | C/C++ | Kotlin | Multimedia | Native Systems**
 
-I’m a software developer focused on building **high-performance, native, and cross-platform software** across Android, Linux, and embedded systems.
+I build **high-performance, native, and cross-platform software** for Android, Linux, and embedded systems.
 
-My work combines **C/C++, Kotlin, Java, Kotlin Multiplatform, multimedia technologies, and platform-level integrations**, with a strong focus on performance, reliability, and reusable engineering solutions.
+My work spans **C/C++, Kotlin, Java, Kotlin Multiplatform, multimedia technologies, and platform-level integrations**, with a strong focus on performance, reliability, and reusable engineering solutions.
 
 ---
 
 ## 🚀 Featured Project — SmartVideo SDK
 
-**SmartVideo SDK** is a native, high-performance video streaming and processing SDK designed for applications that need reliable real-time video on Android, Linux, and embedded platforms.
+**SmartVideo SDK** is a native, high-performance SDK for video streaming and processing, built for applications that need reliable real-time video on Android, Linux, and embedded platforms.
 
-It is being developed for use cases such as:
+### Target use cases
 
 * 📹 IP cameras & NVR systems
 * 🤖 Robotics & industrial systems
@@ -21,22 +21,22 @@ It is being developed for use cases such as:
 * 🏭 Industrial IoT
 * 📡 Real-time video monitoring
 
-### SmartVideo SDK provides
+### Features
 
 * 🎥 **RTSP / SRT / WebRTC** video streaming
-* ⚡ **Low-latency video playback**
+* ⚡ **Low-latency** video playback
 * 🧩 **H.264 / H.265** decoding
-* 🚀 **Hardware-accelerated decoding**
+* 🚀 **Hardware-accelerated** decoding
 * 🖥️ Native rendering with **OpenGL**
 * 🤖 AI-based **object detection**
 * 📸 Video snapshots
 * 🔴 Video recording
-* 📱 Android native integration
+* 📱 Native Android integration
 * 🐧 Linux support
-* 🔗 C/C++ native APIs
+* 🔗 Native C/C++ APIs
 * 🧱 Modular multimedia architecture
 
-The goal is to provide a reusable video engine that hides the complexity of **FFmpeg, hardware codecs, JNI, device fragmentation, and platform-specific multimedia APIs** behind a clean SDK interface.
+The goal is a reusable video engine that hides the complexity of **FFmpeg, hardware codecs, JNI, device fragmentation, and platform-specific multimedia APIs** behind a clean SDK interface.
 
 🔗 **[SmartVideo SDK on GitHub](https://github.com/mortezabayat/SmartVideoSDK)**
 
@@ -44,58 +44,60 @@ The goal is to provide a reusable video engine that hides the complexity of **FF
 
 ## 🔧 Technical Strengths
 
-### Mobile & Application Development
+### 📱 Mobile & Application Development
 
-* Kotlin Multiplatform — **KMP / Compose Multiplatform**
+* **Android** — Kotlin, Java, JNI
+* **Kotlin Multiplatform (KMP)** / **Compose Multiplatform (CMP)**
 * Platform integrations
 
-### Native & Systems
+### ⚙️ Native & Systems
 
 * **C / C++**
 * Linux development
-* Native libraries
-* CMake
+* Native libraries & **CMake**
 * Cross-platform systems
 * Performance-oriented software
 
-### Multimedia
+### 🎬 Multimedia
 
 * **FFmpeg**
 * RTSP / SRT / WebRTC
 * H.264 / H.265
 * Hardware video decoding
-* OpenGL
+* OpenGL rendering
 * Real-time video pipelines
 * Audio/video processing
 
-### AI & Computer Vision
+### 🧠 AI & Computer Vision
 
 * OpenCV
 * ONNX / ONNX Runtime
 * Real-time object detection
 * Video analytics
 
-### UI & Cross-Platform
+### 🖼️ UI & Cross-Platform
 
 * **Qt 6 / QML**
 * Compose Multiplatform
+
 ---
 
 ## 🛠️ Technologies
 
 ```text
-C        C++        Kotlin        
-Android  Linux      KMP           CMP
-Qt       QML        CMake         FFmpeg
-OpenGL   OpenCV     ONNX          RTSP
-SRT      WebRTC                
+Languages   C · C++ · Kotlin · Java
+Platforms   Android · Linux · Embedded
+Frameworks  KMP · Compose Multiplatform · Qt 6 / QML
+Multimedia  FFmpeg · OpenGL · RTSP · SRT · WebRTC · H.264 / H.265
+AI / CV     OpenCV · ONNX Runtime
+Tooling     CMake · JNI
 ```
 
 ---
 
 ## 📌 What I’m Working On
 
-🔭 **SmartVideo SDK** — building a reusable native video engine for real-time streaming, decoding, rendering, recording, and AI video analytics.
+🔭 **SmartVideo SDK**: a reusable native video engine for real-time streaming, decoding, rendering, recording, and AI video analytics.
 
 🌱 Exploring high-performance multimedia systems, hardware acceleration, cross-platform architecture, and developer tools.
 
